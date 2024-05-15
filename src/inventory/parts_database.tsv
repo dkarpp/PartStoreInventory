@@ -1,0 +1,8 @@
+15	25	15	15	15	10	40	10	10	10
+Part_Category	Name	Retail_Price	Cost	Qty_In_Stock	Qty_Sold	Detail_Description	XXX	YYY	ZZZ
+COMPUTER	Microsoft Surface Pro	2500	300	10	3	The worst computer in the world	16	2000	2.6Ghz
+COMPUTER	MacbookPro	1999	1299	2	8	The best computer in the world	32	2000	3.1Ghz
+TABLET	iPad3	599	425	25	20	The best tablet in the world	8x10	1024	true
+PRINTER	HP500	199	49	15	20	The worst printer in the world	true	20	true
+TABLET	iPad4	1599	425	25	20	The best tablet in the world	8x11	1024	false
+TABLET	iPad5	2599	1425	3	20	The best tablet in the world	11x14	1024	false
